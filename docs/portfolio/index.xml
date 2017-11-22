@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Sara&#39;s Cook Book</title>
+    <link>http://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Sara&#39;s Cook Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eggless Vanilla Sponge Cake</title>
+      <link>http://example.org/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>http://example.org/portfolio/work2/</guid>
+      <description>&lt;p&gt;Eggless Blueberry Vanilla Cake without condensed milk.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item without image</title>
+      <link>http://example.org/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>http://example.org/portfolio/work4/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>http://example.org/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://example.org/portfolio/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
