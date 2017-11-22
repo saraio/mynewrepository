@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/portfolio/work2/</loc>
+    <loc>https://saraio.github.io/mynewrepository/portfolio/work2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/work4/</loc>
+    <loc>https://saraio.github.io/mynewrepository/portfolio/work4/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://saraio.github.io/mynewrepository/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://saraio.github.io/mynewrepository/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/work1/</loc>
+    <loc>https://saraio.github.io/mynewrepository/portfolio/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://saraio.github.io/mynewrepository/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://saraio.github.io/mynewrepository/portfolio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://saraio.github.io/mynewrepository/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://saraio.github.io/mynewrepository/tags/</loc>
     <priority>0</priority>
   </url>
   
