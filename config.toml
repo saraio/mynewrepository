@@ -2,7 +2,7 @@ baseURL = "https://saraio.github.io/mynewrepository"
 languageCode = "en-us"
 title = "Sara's Cook Book"
 theme = "hugo-creative-portfolio-theme"
-publishDir="docs"
+publishDir= "docs"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
