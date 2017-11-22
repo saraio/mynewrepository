@@ -25,7 +25,7 @@ Eggless vanilla cake has a soft and moist texture. All cakes requires egg to mak
 8. Blueberry (optional)
 
 
-[1] ![This is me][2]
+![This is me][1]
 
 ### Procedure
 
@@ -48,5 +48,4 @@ Eggless vanilla cake has a soft and moist texture. All cakes requires egg to mak
 
 
 [1]: /myrepository/img/blueberry_before.JPG
-[2]: /myrepository/img/portfolio/blueberry_after.JPG
 
