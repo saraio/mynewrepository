@@ -10,7 +10,7 @@ weight = 1
 Eggless Blueberry Vanilla Cake without condensed milk.
 <!--more-->
 
-Eggless vanilla cake has a soft and moist texture. All cakes requires egg to make it soft. This recipe does not egg or condensed milk to make it soft. Instead I used plain yogurt, cooking oil (any odourless oil), baking soda and baking powder to make it spongy. Plain yogurt and baking soda reacts with one another which makes cake soft while baking powder makes it raise during baking, giving it a light and fluffy texture.
+Eggless vanilla cake has a soft and moist texture. All cakes requires egg to make it soft. This recipe does not need egg or condensed milk to make it soft. Instead I used plain yogurt, cooking oil (any odourless oil), baking soda and baking powder to make it spongy. Plain yogurt and baking soda reacts with one another which makes cake soft while baking powder makes it raise during baking, giving it a light and fluffy texture.
 
 
 ### Ingredients
