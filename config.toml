@@ -1,4 +1,4 @@
-baseURL = "https://saraio.github.io/mynewrepository"
+baseURL = "https://github.com/saraio/sarascookbook.git"
 languageCode = "en-us"
 title = "Sara's Cook Book"
 theme = "hugo-creative-portfolio-theme"
@@ -12,7 +12,7 @@ canonifyURLs = true
   #description = "Describe your website"
   #copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a food writer and a developer. I love traditional home cooking and creating authentic and delicious Indian dishes full of flavour and spices",
+    "I am a food writer and a developer. I love traditional home cooking and creating authentic and delicious Indian dishes full of flavour and spices. I prefer indian vegetarian food, and I have added my recipes to this blog",
 
     "Originally from India, currently based in USA."
   ]

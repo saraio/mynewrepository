@@ -9,7 +9,6 @@ weight = 4
 
 Paruppu podi is a very simple and easy recipe that comes handy when we do not want to spend much time in cooking. 
 You can make these podis in bulk during week ends and store it in air tight container. 
-It is prepared with tur dal and usually served with hot rice and ghee.
 
 <!--more-->
 
@@ -21,3 +20,5 @@ Dry roast and grind the following ingredients
 * Red chillies 10
 * Hing (Asafoetida) 1/2 teaspoon
 * Salt as needed
+
+Server it with hot rice and ghee. Store in air tight container and it stays fresh for more than a month.
