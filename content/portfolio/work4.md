@@ -19,5 +19,5 @@ Dry roast and grind the following ingredients
 * Fenugreek 1/2 teaspoon
 * Black pepper 15
 * Red chillies 10
-* Hing (Asafoetida) a pinch
+* Hing (Asafoetida) 1/2 teaspoon
 * Salt as needed
