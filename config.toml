@@ -41,4 +41,4 @@ canonifyURLs = true
 
   [[params.navlinks]]
   name = "Get in touch"
-  url = "contact/"
+  url = "/contact/"
