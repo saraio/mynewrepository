@@ -1,11 +1,12 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/ginger.JPG"
+image = "/img/portfolio/ginger.JPG"
 date = "2016-11-05T18:25:22+05:30"
 title = "Ginger - Benefits"
 weight = 0
 +++
+
 Ginger is a potent aromatic herb and a good natural source of vitamin C, magnesium, potassium, copper, and manganese. 
 
 <!--more-->
