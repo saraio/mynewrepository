@@ -47,6 +47,6 @@ Eggless vanilla cake has a soft and moist texture. All cakes requires egg to mak
 * Cake is ready to be served!!!
 
 
-[1]: https://saraio.github.io/mynewrepository/img/portfolio/blueberry_before.JPG
-[2]: https://saraio.github.io/mynewrepository/img/portfolio/blueberry_after.JPG
+[1]: /img/portfolio/blueberry_before.JPG
+[2]: /img/portfolio/blueberry_after.JPG
 
