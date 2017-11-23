@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/portfolio/blueberry.JPG"
+image = "/img/portfolio/ginger.JPG"
 date = "2016-11-05T18:25:22+05:30"
 title = "Ginger - Benefits"
 weight = 0
