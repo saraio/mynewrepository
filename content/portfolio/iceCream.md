@@ -47,6 +47,6 @@ Ice cream base can be made with just three ingredients and flavour it up with yo
 
 
 
-[1]: img/portfolio/icecream.jpg
+[1]: /img/portfolio/icecream.jpg
 
 
