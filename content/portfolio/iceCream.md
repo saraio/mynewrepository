@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Ice Cream without ice cream maker"
 draft = false
-image = "img/portfolio/icecream.JPG"
+image = "img/portfolio/icecream.jpg"
 showonlyimage = false
 weight = 2
 +++
@@ -24,20 +24,20 @@ Ice cream base can be made with just three ingredients and flavour it up with yo
 
 ![This is me][1]
 
-### Ice Cream base with blender
+### Ice Cream base
 
 * Get a mixing bowl and pour the whole can of (14oz.) condensed milk into the mixing bowl
 * Add the 1 teaspoon of vanilla
 * Add 1/2 cup of swifted unsweetened cocoa powder (for chocoloate ice cream only)
 
-### To make whipped Cream
+### whipped Cream with blender
 
 * Freeze the blender for 15 mins before making the whipped cream
 * Pour 1 pint (2 cups) of heavy cream into the frozen blender.
 * Mix/beat cream on highest setting until cream looks like whipped cream. 
   Do not over beat the cream it will start to turn into butter.
 
-### To make the chocolate ice cream
+### Chocolate ice cream
 
 * Keep the whipped cream in the same mixing bowl or transfer into a different mixing bowl. I opted to transfer to a different bowl.
 * Fold in the ice cream base into the whipped cream a little at a time. Folding gently not to deflate the whipped cream
@@ -47,6 +47,6 @@ Ice cream base can be made with just three ingredients and flavour it up with yo
 
 
 
-[1]: img/portfolio/icecream.JPG
+[1]: img/portfolio/icecream.jpg
 
 
